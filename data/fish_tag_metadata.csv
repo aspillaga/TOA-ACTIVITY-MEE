@@ -1,0 +1,7 @@
+common_name,species,fish_id,length_cm,length_type,tag_manufacturer,tag_model,tag_id,power_output_db,granularity,min_delay,max_delay
+Control tag,"",CONTAG-106,,"",Thelma Biotel,HP13,OPi-106,156,1,90,150
+Dusky grouper,Epinephelus marginatus,EPIMAR-5018,84,Total length,Lotek,MM-R-16-50,OPi-5018,152,0.5,60,120
+Common dolphinfish,Coryphaena hippurus,CORHIP-892,36,Furcal length,Thelma Biotel,D-HP9L,OPs-892,149,1,90,150
+Butterfly ray,Gymnura altavela,GYMALT-5044,52,Disk width,Lotek,MM-R-16-25,OPi-5044,152,0.5,120,240
+Common stingray,Dasyatis pastinaca,DASPAS-5051,37,Disk width,Lotek,MM-R-16-25,OPi-5051,152,0.5,120,240
+Undulate skate,Raja undulata,RAJUND-516,85,Total length,Thelma Biotel,D-2LP13,OPs-516,150,1,90,150

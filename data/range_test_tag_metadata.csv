@@ -1,0 +1,9 @@
+tag_manufacturer,tag_model,tag_id,power_output_db,granularity,min_delay,max_delay
+Lotek,MM-R-8-SO,OPi-2000,145,0.5,30,90
+Lotek,MM-R-11-45,OPi-2002,147,0.5,30,90
+Lotek,MM-R-16-33,OPi-2004,152,0.5,30,90
+Thelma Biotel,ID-HP7,OPi-102,143,1,90,150
+Thelma Biotel,ID-HP9L,OPi-104,149,1,90,150
+Thelma Biotel,ID-LP13,OPi-105,150,1,90,150
+Thelma Biotel,ID-HP13,OPi-106,156,1,90,150
+Thelma Biotel,ID-HP16,OPi-107,158,1,90,150
