@@ -1,0 +1,21 @@
+cff-version: 1.2.0
+title: TOA-based activity estimation from acoustic telemetry data
+message: If you use this dataset, please cite it it as below.
+type: dataset
+authors:
+- family-names: "Aspillaga"
+  given-names: "Eneko"
+  orcid: "https://orcid.org/0000-0002-8888-8731"
+- family-names: "Alós"
+  given-names: "Josep"
+- family-names: "Catalán"
+  given-names: "Ignacio A."
+- family-names: "Moltó"
+  given-names: "Vicenç "
+- family-names: "Abad-Platas"
+  given-names: "Jordi"
+- family-names: "Villegas-Ríos"
+  given-names: "David "
+version: 1.0
+date-released: 2025-09-30
+url: "https://github.com/aspillaga/TOA-ACTIVITY-MEE"
